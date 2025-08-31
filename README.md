@@ -13,9 +13,7 @@ Now that we have covered that, please install Monke Mod manager
 
 https://github.com/The-Graze/MonkeModManager/ (Graze's MMM. Small, quick video tutorial at the top. click on GrazeMMM.gif)
 
-https://github.com/arielthemonke/MonkeModManager (A Mysterious Person's MMM)
-
-https://github.com/NgbatzYT/MonkeModManager (Ngbatz MMM (not recommended, but if you like the OG MMM Design, this is for you.))
+https://github.com/arielthemonke/MonkeModManager (A Mysterious Person's MMM
 
 After installing that, please run the executable. Select all the mods you'd like to install.
 
