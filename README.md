@@ -19,7 +19,7 @@ https://github.com/NgbatzYT/MonkeModManager (Ngbatz MMM (not recommended, but if
 
 After installing that, please run the executable. Select all the mods you'd like to install.
 
-After that, your done! If you run into any issues, please tell us your issue in discord.gg/monkemod
+After that, your done! Remember, DO NOT CHEAT. If you run into any issues, please tell us your issue in discord.gg/monkemod
 
 ### Manual Method Links (Hard, but if you like installing it manually, here you go)
 
