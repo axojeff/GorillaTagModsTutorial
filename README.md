@@ -11,7 +11,7 @@ The easiest way to install mods is through a program called "Monke Mod Manager".
 
 Now that we have covered that, please install Monke Mod manager
 
-https://github.com/The-Graze/MonkeModManager/ (Graze's MMM)
+https://github.com/The-Graze/MonkeModManager/ (Graze's MMM. Small, quick video tutorial at the top. click on GrazeMMM.gif)
 
 https://github.com/arielthemonke/MonkeModManager (A Mysterious Person's MMM)
 
