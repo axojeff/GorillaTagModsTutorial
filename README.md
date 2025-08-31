@@ -3,7 +3,7 @@ This repository helps people install modifications to the popular virtual realit
 
 # ⚠️ THIS TUTORIAL IS FOR WINDOWS 10/11. THIS WILL NOT WORK FOR LINUX, MAC OS, OR QUEST STANDALONE ⚠️
 
--# Make sure to read the warning above so you dont install mods on the wrong OS!!
+Make sure to read the warning above so you dont install mods on the wrong OS!!
 
 ### Easy Method
 
